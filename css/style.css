@@ -16,7 +16,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: hsl(185deg, 75%, 39%);
+  background-color: hsl(185, 75%, 39%);
   background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
   background-position: left -310px top -460px, right -310px bottom -460px;
   background-repeat: no-repeat, no-repeat;
@@ -60,22 +60,22 @@ body {
 .card__name {
   font-size: 18px;
   font-weight: 700;
-  color: hsl(229deg, 23%, 23%);
+  color: hsl(229, 23%, 23%);
 }
 .card__name span {
   font-weight: normal;
   margin-left: 5px;
-  color: hsl(0deg, 0%, 59%);
+  color: hsl(0, 0%, 59%);
 }
 .card__city {
-  color: hsl(227deg, 10%, 46%);
+  color: hsl(227, 10%, 46%);
   font-size: 1.2em;
   margin-top: 5px;
 }
 .card__line {
   width: 100%;
   height: 1px;
-  background-color: hsl(0deg, 0%, 59%);
+  background-color: hsl(0, 0%, 59%);
 }
 .card__data {
   display: flex;
@@ -91,7 +91,7 @@ body {
   font-size: 1.5em;
 }
 .card__dataText {
-  color: hsl(0deg, 0%, 59%);
+  color: hsl(0, 0%, 59%);
   font-size: 1.2em;
 }
 
@@ -101,5 +101,5 @@ footer .attribution {
   margin-top: 5%;
 }
 footer .attribution a {
-  color: hsl(228deg, 45%, 44%);
+  color: hsl(228, 45%, 44%);
 }/*# sourceMappingURL=style.css.map */
